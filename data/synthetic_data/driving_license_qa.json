@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the minimum age to apply for a driving license in India?",
+    "answer": "The minimum age is 18 years for a motor vehicle license; gearless two-wheelers up to 50cc can be driven from age 16 with guardian consent."
+  },
+  {
+    "question": "What is the first step before getting a permanent driving license?",
+    "answer": "Applicants must first obtain a Learner's License (LL) by passing an online test on traffic rules and signs."
+  },
+  {
+    "question": "How long is a Learner's License valid?",
+    "answer": "A Learner's License is valid for 6 months."
+  },
+  {
+    "question": "What is the minimum gap required between Learner's License and permanent license application?",
+    "answer": "Typically a minimum of 30 days must pass after obtaining the Learner's License before applying for the permanent license, though this varies by state."
+  },
+  {
+    "question": "What is the validity of a non-transport driving license?",
+    "answer": "Non-transport licenses are typically valid for 20 years or until the holder turns 50, whichever is earlier."
+  },
+  {
+    "question": "Is a medical certificate required for a driving license?",
+    "answer": "A medical certificate (Form 1A) is required for transport vehicle licenses or for applicants above a certain age during renewal."
+  },
+  {
+    "question": "Can I apply for a driving license in a state other than my home state?",
+    "answer": "Yes, you can apply based on your current residential address with valid address proof, even if different from your home state."
+  },
+  {
+    "question": "What happens if I fail the driving test?",
+    "answer": "You can reschedule and retake the test after a specified waiting period, usually with an additional fee."
+  }
+]

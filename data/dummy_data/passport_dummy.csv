@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_identity_proof,has_address_proof,has_pending_criminal_case,is_minor_needs_guardian,is_eligible
+PP001,Aditya Rao,27,Karnataka,Yes,Yes,No,No,Yes
+PP002,Fatima Sheikh,34,Maharashtra,Yes,No,No,No,No
+PP003,Baljeet Singh,45,Punjab,Yes,Yes,Yes,No,No
+PP004,Isha Agarwal,10,Delhi,Yes,Yes,No,Yes,Yes
+PP005,Naveen Kumar,31,Telangana,Yes,Yes,No,No,Yes
+PP006,Ritu Chawla,29,Haryana,No,Yes,No,No,No
+PP007,Sameer Ansari,40,Uttar Pradesh,Yes,Yes,No,No,Yes
+PP008,Kavita Rawat,55,Uttarakhand,Yes,Yes,No,No,Yes
+PP009,Tanvi Desai,5,Gujarat,Yes,Yes,No,Yes,Yes
+PP010,Arvind Menon,38,Kerala,Yes,Yes,Yes,No,No

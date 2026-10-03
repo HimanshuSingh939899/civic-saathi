@@ -1,0 +1,11 @@
+applicant_id,name,age,state,owns_agricultural_land,land_area_acres,is_income_tax_payer,is_government_employee,is_eligible
+PK001,Ram Singh,48,Punjab,Yes,3.5,No,No,Yes
+PK002,Suresh Bhagat,52,Haryana,Yes,1.2,No,No,Yes
+PK003,Anil Kapoor,39,Uttar Pradesh,No,0,No,No,No
+PK004,Devendra Patil,44,Maharashtra,Yes,2.8,Yes,No,No
+PK005,Gopal Krishnan,60,Tamil Nadu,Yes,4.0,No,No,Yes
+PK006,Manisha Joshi,35,Madhya Pradesh,Yes,0.9,No,Yes,No
+PK007,Bharat Solanki,55,Gujarat,Yes,5.2,No,No,Yes
+PK008,Rajesh Meena,41,Rajasthan,No,0,No,No,No
+PK009,Suman Kumari,50,Bihar,Yes,1.5,No,No,Yes
+PK010,Vijay Naik,46,Karnataka,Yes,3.0,Yes,No,No

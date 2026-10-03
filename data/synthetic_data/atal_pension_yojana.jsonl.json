@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the age range for joining Atal Pension Yojana?",
+    "answer": "Individuals between 18 and 40 years of age can join APY."
+  },
+  {
+    "question": "What is the minimum guaranteed pension under APY?",
+    "answer": "APY guarantees a minimum monthly pension ranging from Rs. 1,000 to Rs. 5,000, based on the subscriber's chosen contribution slab."
+  },
+  {
+    "question": "Are income tax payers eligible for APY?",
+    "answer": "As per rules effective for new subscribers from a specified date, income tax payers are not eligible to join APY."
+  },
+  {
+    "question": "What happens to the APY pension after the subscriber's death?",
+    "answer": "If death occurs after age 60, the spouse receives the same pension, and upon the spouse's death, the nominee receives the accumulated corpus."
+  },
+  {
+    "question": "How often can I change my pension amount in APY?",
+    "answer": "Subscribers are generally permitted to change their chosen pension slab once a year, usually in April."
+  },
+  {
+    "question": "What is required to enroll in APY?",
+    "answer": "A savings bank account or post office savings account along with Aadhaar details is required to enroll in APY."
+  },
+  {
+    "question": "What happens if I miss a contribution payment in APY?",
+    "answer": "A penalty fee is charged for delayed contributions, and continued default can lead to freezing or closure of the account."
+  },
+  {
+    "question": "Can I withdraw from APY before turning 60?",
+    "answer": "Premature exit is generally not permitted except in cases of the subscriber's death or terminal illness."
+  }
+]

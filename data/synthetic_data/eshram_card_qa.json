@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Who is eligible to register for an e-Shram card?",
+    "answer": "Unorganised sector workers aged 16 to 59 years, such as construction workers, migrant laborers, domestic workers, and gig workers, are eligible, provided they are not EPFO/ESIC members or government employees."
+  },
+  {
+    "question": "What is required to register for e-Shram online?",
+    "answer": "An Aadhaar-linked mobile number is required for OTP verification during online self-registration on the eShram portal."
+  },
+  {
+    "question": "What is the UAN in the context of e-Shram?",
+    "answer": "UAN stands for Universal Account Number, a unique 12-digit number issued upon successful e-Shram registration."
+  },
+  {
+    "question": "What insurance benefit comes with e-Shram registration?",
+    "answer": "Registered workers are automatically enrolled in Pradhan Mantri Suraksha Bima Yojana, providing accidental insurance cover."
+  },
+  {
+    "question": "Can I register for e-Shram without an Aadhaar-linked mobile number?",
+    "answer": "Yes, workers without an Aadhaar-linked mobile number can visit the nearest Common Service Centre for biometric-based registration."
+  },
+  {
+    "question": "Is there a registration fee for e-Shram card?",
+    "answer": "No, registration is free of cost at government portals and Common Service Centres."
+  },
+  {
+    "question": "Can EPFO members register for e-Shram?",
+    "answer": "No, e-Shram is specifically for unorganised sector workers; EPFO, ESIC members, and government employees are not eligible."
+  },
+  {
+    "question": "How long does e-Shram registration take?",
+    "answer": "Online portal registration is typically instant, while CSC-based registration may take 1-2 days for data processing."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What are the two main components of PM Awas Yojana?",
+    "answer": "PMAY has two components: PMAY-Urban (PMAY-U) for cities and towns, and PMAY-Gramin (PMAY-G) for rural areas."
+  },
+  {
+    "question": "What income criteria qualifies a household as EWS under PMAY-Urban?",
+    "answer": "EWS (Economically Weaker Section) includes households with annual income up to Rs. 3 lakh."
+  },
+  {
+    "question": "What is the maximum interest subsidy available under PMAY's CLSS?",
+    "answer": "An interest subsidy of up to 6.5% is available under the Credit Linked Subsidy Scheme, varying by income category."
+  },
+  {
+    "question": "Who gets priority under PMAY-Gramin?",
+    "answer": "Priority is given to SC/ST households, minorities, widows, persons with disabilities, and women-headed families in PMAY-Gramin."
+  },
+  {
+    "question": "Can a family that owns a kutcha house apply for PMAY?",
+    "answer": "Yes, PMAY-Gramin specifically targets households living in kutcha or dilapidated houses, so owning one does not disqualify an applicant."
+  },
+  {
+    "question": "How many times can a family avail PMAY benefits?",
+    "answer": "The PMAY benefit can be availed only once by an eligible family."
+  },
+  {
+    "question": "Where can I check my PMAY-Urban application status?",
+    "answer": "You can check beneficiary status online via the PMAY-U portal using your assessment ID, Aadhaar number, or registered mobile number."
+  },
+  {
+    "question": "How are PMAY-Gramin funds released to beneficiaries?",
+    "answer": "Funds are released in installments linked to construction progress, directly into the beneficiary's bank account."
+  }
+]

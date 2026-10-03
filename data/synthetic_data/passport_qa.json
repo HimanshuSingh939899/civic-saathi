@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the validity period of a standard adult Indian passport?",
+    "answer": "A standard adult Indian passport is generally valid for 10 years."
+  },
+  {
+    "question": "What is the validity period of a passport issued to a minor?",
+    "answer": "Passports issued to minors below 18 years are valid for 5 years or until the minor turns 18, whichever is earlier."
+  },
+  {
+    "question": "What is a Tatkal passport application?",
+    "answer": "Tatkal is an expedited passport service with higher fees that can be processed in a few days, compared to the normal 30-45 day process."
+  },
+  {
+    "question": "Is Aadhaar mandatory to apply for an Indian passport?",
+    "answer": "No, Aadhaar is not mandatory, though it simplifies the application process; alternative documents are accepted for address and identity proof."
+  },
+  {
+    "question": "What is the difference between ECR and Non-ECR passports?",
+    "answer": "ECR passports require emigration clearance for travel to certain countries for employment, while Non-ECR passports do not have this requirement."
+  },
+  {
+    "question": "How can I track my passport application status?",
+    "answer": "You can track the status online on the Passport Seva portal using your application reference number (file number)."
+  },
+  {
+    "question": "Is police verification mandatory for passport applications?",
+    "answer": "Police verification is mandatory for most fresh applications, though some pre-verified applicants may undergo post-issuance verification instead."
+  },
+  {
+    "question": "Where should I apply for a passport?",
+    "answer": "Passport applications are submitted through the Passport Seva Online Portal, followed by an appointment at a Passport Seva Kendra (PSK) or Post Office PSK."
+  }
+]

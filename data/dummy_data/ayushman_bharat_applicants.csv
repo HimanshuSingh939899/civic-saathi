@@ -1,0 +1,11 @@
+applicant_id,name,age,state,annual_income,family_size,has_ration_card,is_secc_listed,is_eligible
+AB001,Ramesh Yadav,50,Bihar,180000,6,Yes,Yes,Yes
+AB002,Shalini Kapoor,42,Delhi,950000,4,No,No,No
+AB003,Bhagwan Das,61,Madhya Pradesh,120000,5,Yes,Yes,Yes
+AB004,Ritu Chawla,35,Punjab,600000,3,No,No,No
+AB005,Ganga Prasad,29,Uttar Pradesh,90000,7,Yes,Yes,Yes
+AB006,Alok Mishra,47,Odisha,250000,4,Yes,No,No
+AB007,Fatima Bano,55,West Bengal,110000,6,Yes,Yes,Yes
+AB008,Deepak Chauhan,38,Haryana,1200000,3,No,No,No
+AB009,Manju Devi,63,Rajasthan,95000,8,Yes,Yes,Yes
+AB010,Ashok Naidu,44,Andhra Pradesh,300000,5,No,No,No

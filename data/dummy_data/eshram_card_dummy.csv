@@ -1,0 +1,11 @@
+applicant_id,name,age,state,is_unorganised_worker,is_epfo_or_govt_employee,is_eligible
+E001,Ramesh Yadav,35,Bihar,Yes,No,Yes
+E002,Geeta Kumari,28,Uttar Pradesh,Yes,No,Yes
+E003,Suresh Patil,62,Maharashtra,Yes,No,No
+E004,Anjali Mishra,15,Madhya Pradesh,Yes,No,No
+E005,Dinesh Kumar,40,Rajasthan,Yes,No,Yes
+E006,Pooja Shah,30,Gujarat,Yes,Yes,No
+E007,Rajesh Oraon,45,Jharkhand,Yes,No,Yes
+E008,Fatima Begum,22,West Bengal,Yes,No,Yes
+E009,Manoj Tiwari,50,Chhattisgarh,Yes,No,Yes
+E010,Kiran Bai,58,Odisha,Yes,No,Yes

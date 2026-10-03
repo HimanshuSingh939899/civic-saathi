@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How much health coverage does Ayushman Bharat PM-JAY provide?",
+    "answer": "PM-JAY provides coverage up to Rs. 5 lakh per family per year on a floater basis for hospitalization expenses."
+  },
+  {
+    "question": "Is there a premium to enroll in Ayushman Bharat PM-JAY?",
+    "answer": "No, the scheme is completely free for eligible beneficiaries with no premium or enrollment fee."
+  },
+  {
+    "question": "How is eligibility for PM-JAY determined?",
+    "answer": "Eligibility is determined based on the Socio-Economic Caste Census (SECC) 2011 deprivation and occupational criteria, not through a separate application."
+  },
+  {
+    "question": "Does PM-JAY cover pre-existing diseases?",
+    "answer": "Yes, pre-existing diseases are covered from day one under PM-JAY, with no restriction based on existing medical conditions."
+  },
+  {
+    "question": "Can treatment under PM-JAY be availed in any state?",
+    "answer": "Yes, PM-JAY is portable across India, and beneficiaries can avail treatment at any empaneled hospital in any state."
+  },
+  {
+    "question": "What document is generated after PM-JAY eligibility verification?",
+    "answer": "An Ayushman Card (e-card) is generated, which must be presented at an empaneled hospital for cashless treatment."
+  },
+  {
+    "question": "Does PM-JAY cover outpatient (OPD) consultations?",
+    "answer": "No, PM-JAY primarily covers secondary and tertiary hospitalization expenses, not routine OPD consultations."
+  },
+  {
+    "question": "How can I check if my family is covered under PM-JAY?",
+    "answer": "You can check eligibility on the official PM-JAY website or mAyushman app using your mobile number, name, or ration card details."
+  }
+]

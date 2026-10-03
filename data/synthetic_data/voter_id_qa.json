@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the minimum age to apply for a Voter ID card?",
+    "answer": "A person must be at least 18 years of age as on the qualifying date to apply for a Voter ID card."
+  },
+  {
+    "question": "Which form is used for new voter registration?",
+    "answer": "Form 6 is used for new voter registration, typically by first-time voters or those who have shifted to a new constituency."
+  },
+  {
+    "question": "Can I vote without my physical Voter ID card?",
+    "answer": "Yes, if your name is on the electoral roll, you can vote using any alternative photo ID document prescribed by the Election Commission, such as Aadhaar or Passport."
+  },
+  {
+    "question": "Is there a fee to apply for a Voter ID card?",
+    "answer": "No, registration and correction services for Voter ID are completely free of cost."
+  },
+  {
+    "question": "Which form should I use to correct my name or address on my Voter ID?",
+    "answer": "Form 8 is used for correction of entries such as name, address, date of birth, or photo in an existing Voter ID record."
+  },
+  {
+    "question": "How long does it take to get a Voter ID card after applying?",
+    "answer": "It typically takes 2 to 4 weeks for verification and issuance, though this can vary by state."
+  },
+  {
+    "question": "Can NRIs register as voters in India?",
+    "answer": "Yes, Non-Resident Indians can register using Form 6A, provided they hold a valid Indian passport."
+  },
+  {
+    "question": "What proof of age documents are accepted for Voter ID application?",
+    "answer": "Accepted proof of age documents include birth certificate, Aadhaar card, PAN card, driving license, passport, or 10th/12th marksheet."
+  }
+]

@@ -1,0 +1,11 @@
+applicant_id,name,age,state,residency_years,has_address_proof,has_identity_proof,is_eligible
+IC001,Nitin Agarwal,28,Uttar Pradesh,5,Yes,Yes,Yes
+IC002,Swati Deshmukh,33,Maharashtra,1,Yes,Yes,No
+IC003,Harpreet Singh,45,Punjab,10,Yes,No,No
+IC004,Yamini Rao,24,Telangana,4,Yes,Yes,Yes
+IC005,Tarun Bhatt,50,Rajasthan,15,Yes,Yes,Yes
+IC006,Rekha Suresh,37,Karnataka,2,No,Yes,No
+IC007,Manoj Tiwari,41,Bihar,7,Yes,Yes,Yes
+IC008,Simran Kaur,20,Punjab,0.5,Yes,Yes,No
+IC009,Vinay Kumar,58,Madhya Pradesh,20,Yes,Yes,Yes
+IC010,Anita Fernandes,30,Goa,3,Yes,Yes,Yes

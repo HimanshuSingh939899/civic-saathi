@@ -1,0 +1,11 @@
+applicant_id,name,age,state,is_secc_listed,is_eligible
+A001,Shankar Lal,50,Bihar,Yes,Yes
+A002,Radha Devi,65,Uttar Pradesh,Yes,Yes
+A003,Imran Sheikh,30,Maharashtra,No,No
+A004,Kamla Bai,45,Madhya Pradesh,Yes,Yes
+A005,Suresh Naidu,58,Andhra Pradesh,No,No
+A006,Gayatri Patel,40,Gujarat,Yes,Yes
+A007,Thomas Jacob,33,Kerala,No,No
+A008,Bimla Devi,70,Rajasthan,Yes,Yes
+A009,Sanjay Gupta,25,Delhi,No,No
+A010,Lata Mondal,55,West Bengal,Yes,Yes

@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_proof_of_identity,has_proof_of_address,is_minor_needs_guardian,is_eligible
+A001,Rahul Sharma,29,Uttar Pradesh,Yes,Yes,No,Yes
+A002,Priya Verma,4,Maharashtra,No,Yes,Yes,No
+A003,Mohammed Farhan,45,Telangana,Yes,Yes,No,Yes
+A004,Sunita Devi,67,Bihar,Yes,No,No,No
+A005,Aisha Khan,2,Karnataka,No,No,Yes,No
+A006,Vikram Singh,34,Punjab,Yes,Yes,No,Yes
+A007,Lakshmi Nair,52,Kerala,Yes,Yes,No,Yes
+A008,Rohan Das,19,West Bengal,No,Yes,No,No
+A009,Kavya Reddy,8,Andhra Pradesh,No,Yes,Yes,No
+A010,Arjun Mehta,38,Gujarat,Yes,Yes,No,Yes

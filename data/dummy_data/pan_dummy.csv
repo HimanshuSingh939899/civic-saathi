@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_identity_proof,has_address_proof,has_date_of_birth_proof,already_has_pan,is_eligible
+PN001,Aarav Kapoor,24,Delhi,Yes,Yes,Yes,No,Yes
+PN002,Sneha Joshi,31,Maharashtra,Yes,Yes,Yes,Yes,No
+PN003,Imran Malik,40,Uttar Pradesh,Yes,No,Yes,No,No
+PN004,Divya Rao,22,Karnataka,Yes,Yes,No,No,No
+PN005,Harpreet Singh,35,Punjab,Yes,Yes,Yes,No,Yes
+PN006,Fatima Ansari,27,West Bengal,No,Yes,Yes,No,No
+PN007,Rakesh Yadav,50,Bihar,Yes,Yes,Yes,Yes,No
+PN008,Meera Pillai,33,Kerala,Yes,Yes,Yes,No,Yes
+PN009,Vikas Gupta,45,Rajasthan,Yes,Yes,Yes,No,Yes
+PN010,Anjali Nair,18,Tamil Nadu,Yes,Yes,Yes,No,Yes

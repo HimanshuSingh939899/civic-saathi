@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_proof_of_identity,has_proof_of_address,has_date_of_birth_proof,already_has_pan,is_eligible
+P001,Sanjay Gupta,31,Delhi,Yes,Yes,Yes,No,Yes
+P002,Meera Iyer,26,Tamil Nadu,Yes,No,Yes,No,No
+P003,Farhan Ali,40,Uttar Pradesh,Yes,Yes,Yes,Yes,No
+P004,Divya Patel,22,Gujarat,No,Yes,Yes,No,No
+P005,Karan Malhotra,55,Punjab,Yes,Yes,No,No,No
+P006,Anjali Rao,17,Karnataka,Yes,Yes,Yes,No,Yes
+P007,Suresh Kumar,48,Bihar,Yes,Yes,Yes,No,Yes
+P008,Neha Joshi,29,Maharashtra,Yes,Yes,Yes,No,Yes
+P009,Imran Sheikh,33,West Bengal,No,No,No,No,No
+P010,Pooja Bansal,60,Rajasthan,Yes,Yes,Yes,No,Yes

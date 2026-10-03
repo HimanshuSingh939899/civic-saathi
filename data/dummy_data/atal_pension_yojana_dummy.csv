@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_bank_account,is_income_tax_payer,is_eligible
+AP001,Deepak Rana,25,Uttarakhand,Yes,No,Yes
+AP002,Nisha Thakur,38,Himachal Pradesh,Yes,No,Yes
+AP003,Rakesh Verma,45,Uttar Pradesh,Yes,Yes,No
+AP004,Komal Yadav,19,Bihar,Yes,No,Yes
+AP005,Faisal Khan,42,Maharashtra,No,No,No
+AP006,Shruti Iyer,30,Karnataka,Yes,No,Yes
+AP007,Govind Sharma,50,Rajasthan,Yes,No,No
+AP008,Pallavi Joshi,36,Gujarat,Yes,Yes,No
+AP009,Irfan Ali,28,West Bengal,Yes,No,Yes
+AP010,Meera Krishnan,41,Tamil Nadu,Yes,No,No

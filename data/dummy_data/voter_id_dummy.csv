@@ -1,0 +1,11 @@
+applicant_id,name,age,state,is_indian_citizen,has_proof_of_identity,has_proof_of_address,is_minor_needs_guardian,is_eligible
+V001,Rahul Sharma,29,Uttar Pradesh,Yes,Yes,Yes,No,Yes
+V002,Priya Verma,4,Maharashtra,Yes,No,Yes,Yes,No
+V003,Mohammed Farhan,45,Telangana,Yes,Yes,Yes,No,Yes
+V004,Sunita Devi,67,Bihar,Yes,Yes,No,No,Yes
+V005,Aisha Khan,2,Karnataka,Yes,No,No,Yes,No
+V006,Vikram Singh,34,Punjab,Yes,Yes,Yes,No,Yes
+V007,Lakshmi Nair,52,Kerala,Yes,Yes,Yes,No,Yes
+V008,Rohan Das,19,West Bengal,Yes,No,Yes,No,Yes
+V009,Kavya Reddy,8,Andhra Pradesh,Yes,No,Yes,Yes,No
+V010,Arjun Mehta,38,Gujarat,Yes,Yes,Yes,No,Yes

@@ -1,0 +1,11 @@
+applicant_id,name,age,state,is_farmer,has_land_record_or_tenancy,is_eligible
+F001,Balram Chaudhary,42,Punjab,Yes,Yes,Yes
+F002,Kamala Shetty,38,Karnataka,Yes,No,No
+F003,Harinder Singh,50,Haryana,Yes,Yes,Yes
+F004,Sunanda Reddy,45,Andhra Pradesh,Yes,Yes,Yes
+F005,Gopal Krishnan,33,Tamil Nadu,Yes,Yes,Yes
+F006,Manpreet Kaur,29,Punjab,Yes,Yes,Yes
+F007,Vijay Pawar,55,Maharashtra,No,Yes,No
+F008,Chandrakant Jadhav,47,Maharashtra,Yes,Yes,Yes
+F009,Fatima Shaikh,36,Gujarat,Yes,No,No
+F010,Omkar Deshmukh,41,Madhya Pradesh,Yes,Yes,Yes

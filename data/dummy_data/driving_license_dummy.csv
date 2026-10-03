@@ -1,0 +1,11 @@
+applicant_id,name,age,state,is_minor_needs_guardian,is_eligible
+D001,Yuvraj Singh,19,Punjab,No,Yes
+D002,Sneha Pillai,17,Kerala,Yes,Yes
+D003,Mohit Agarwal,24,Rajasthan,No,Yes
+D004,Ayesha Siddiqui,16,Telangana,Yes,Yes
+D005,Karan Malhotra,30,Delhi,No,Yes
+D006,Preeti Nair,22,Karnataka,No,Yes
+D007,Gaurav Bhatt,15,Uttarakhand,Yes,No
+D008,Shalini Reddy,28,Andhra Pradesh,No,Yes
+D009,Imran Qureshi,45,Maharashtra,No,Yes
+D010,Pooja Thakur,20,Himachal Pradesh,No,Yes

@@ -1,0 +1,11 @@
+applicant_id,name,age,state,is_eligible_household,owns_pucca_house,is_eligible
+P001,Harish Chandra,40,Uttar Pradesh,Yes,No,Yes
+P002,Meena Kumari,35,Bihar,Yes,No,Yes
+P003,Satish Kumar,48,Madhya Pradesh,Yes,No,Yes
+P004,Rina Das,29,West Bengal,Yes,No,Yes
+P005,Vishal Rao,55,Maharashtra,Yes,Yes,No
+P006,Shabana Sheikh,38,Telangana,Yes,No,Yes
+P007,Deepak Joshi,42,Rajasthan,No,No,No
+P008,Anita Kujur,33,Jharkhand,Yes,No,Yes
+P009,Ramanathan S,60,Tamil Nadu,No,Yes,No
+P010,Farida Ansari,27,Gujarat,No,No,No

@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_identity_proof,has_address_proof,has_existing_ration_card_elsewhere,is_eligible
+R001,Bharat Lal,48,Bihar,Yes,Yes,No,Yes
+R002,Savitri Devi,55,Uttar Pradesh,Yes,Yes,No,Yes
+R003,Nitesh Kumar,36,Madhya Pradesh,Yes,Yes,Yes,No
+R004,Rukmini Bai,62,Maharashtra,Yes,Yes,No,Yes
+R005,Altaf Hussain,40,West Bengal,Yes,Yes,No,Yes
+R006,Shilpa Rane,33,Goa,Yes,Yes,No,Yes
+R007,Devendra Patel,50,Gujarat,Yes,Yes,No,Yes
+R008,Kavitha Shetty,45,Karnataka,Yes,Yes,Yes,No
+R009,Mahesh Yadav,38,Haryana,Yes,Yes,No,Yes
+R010,Rina Toppo,29,Jharkhand,Yes,Yes,No,Yes

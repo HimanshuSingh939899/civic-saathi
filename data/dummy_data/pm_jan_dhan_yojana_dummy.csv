@@ -1,0 +1,11 @@
+applicant_id,name,age,state,has_bank_account,is_eligible
+J001,Ravi Kumar,22,Uttar Pradesh,No,Yes
+J002,Sita Ram,45,Bihar,Yes,No
+J003,Noor Jahan,30,West Bengal,No,Yes
+J004,Chetan Patil,12,Maharashtra,No,Yes
+J005,Divya Shree,28,Tamil Nadu,No,Yes
+J006,Harpreet Kaur,33,Punjab,No,Yes
+J007,Manish Soni,40,Madhya Pradesh,Yes,No
+J008,Zoya Khan,19,Telangana,No,Yes
+J009,Bablu Mahato,50,Jharkhand,No,Yes
+J010,Anu Pillai,8,Kerala,No,Yes
