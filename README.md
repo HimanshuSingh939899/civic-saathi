@@ -132,7 +132,7 @@ Language: Python
 ## ⚙️Setup
 
 bash
-git clone https://github.com/<your-username>/civic-saathi.git
+git clone https://github.com/HimanshuSingh939899/civic-saathi.git
 cd civic-saathi
 python -m venv venv
 venv\Scripts\activate        # Windows
